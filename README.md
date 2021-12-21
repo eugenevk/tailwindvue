@@ -1,5 +1,3 @@
-# tailwind
-
 ## Project setup
 ```
 npm install
