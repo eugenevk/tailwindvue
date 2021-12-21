@@ -1,4 +1,19 @@
-# tailwindvue
-TailwindCSS 3.0.7 + VueJS 3.0
+# tailwind
 
-Repository to test the working of TailwindCSS 3.0.7 with VueJS 3.0 (Composition API).
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
